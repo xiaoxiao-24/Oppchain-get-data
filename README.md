@@ -27,6 +27,7 @@ for twitter
 for GA Reporting API
 ----------------------
 > pip install oauth2client.service_account
+
 > pip install apiclient.discovery
 
 for Google Cloud Storage
