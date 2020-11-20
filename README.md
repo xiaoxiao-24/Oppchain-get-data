@@ -12,7 +12,6 @@ This application is aim to run on a kubernetes cluster.
 
 ## Dependencies
 
-> pip install json
 
 for kafka
 -----------
@@ -26,9 +25,9 @@ for twitter
 
 for GA Reporting API
 ----------------------
-> pip install oauth2client.service_account
+> pip install oauth2client
 
-> pip install apiclient.discovery
+> pip install apiclient
 
 for Google Cloud Storage
 --------------------------
