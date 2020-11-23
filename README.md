@@ -29,6 +29,8 @@ for GA Reporting API
 
 > pip install apiclient
 
+> pip install --upgrade google-api-python-client
+
 for Google Cloud Storage
 --------------------------
 > pip install google.cloud.storage
